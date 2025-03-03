@@ -3,3 +3,5 @@
 *.eif
 *.exe
 build/
+googletest/
+venv/
